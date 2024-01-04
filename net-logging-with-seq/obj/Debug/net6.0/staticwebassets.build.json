@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m5UgeAqrkuPKELaHe5nPio8+WtPTjUb1KtKAPAdZFIU=",
+  "Source": "net-logging-with-seq",
+  "BasePath": "_content/net-logging-with-seq",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
